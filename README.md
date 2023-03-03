@@ -2,7 +2,7 @@
 [L]inux [a]nd [s]hell [s]cripting
 
 ### About the repository
-This is the repo used for the IBM Course Introduction to Linux and Shell Scripting available on edX.org
+This is the repo used for the IBM Course: Introduction to Linux and Shell Scripting, available on edX.org
 
 ### 📒 Exercices 
 🐚 shell scripting
